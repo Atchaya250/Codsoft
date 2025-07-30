@@ -14,7 +14,7 @@ public class CurrencyConverter extends JFrame {
     private JLabel resultLabel;
 
     private static final String[] CURRENCIES = {
-        "USD", "EUR", "GBP", "INR", "JPY", "AUD", "CAD", "CHF", "CNY"
+        "USD", "EUR", "GBP", "INR", "JPY", "AUD", "CAD", "AED" , "CHF", "CNY"
     };
 
     private static final String API_KEY = "9fff775dad10b254dc833916";
